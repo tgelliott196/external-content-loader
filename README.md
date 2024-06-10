@@ -1,7 +1,5 @@
-# Redirect Example
+# External Content
 
-You are being redirected. If not, click [here](https://example.com).
+The latest content from the external site is displayed below:
 
-<script type="text/javascript">
-    window.location.href = "https://example.com";
-</script>
+<iframe src="external-content.html" style="width:100%; height:600px; border:none;"></iframe>
