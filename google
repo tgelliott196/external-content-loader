@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>External Content Loader</title>
-</head>
-<body>
-    <iframe src="https://google.com" style="width:100%; height:100%; border:none;"></iframe>
-</body>
-</html>
